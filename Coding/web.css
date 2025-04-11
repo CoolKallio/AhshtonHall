@@ -1,0 +1,57 @@
+table{
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: black underline;
+
+
+}
+#daq{
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 10px;
+}
+
+#text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    color: red
+}
+#nixon{
+    color: red;
+    align-items: center;
+    float: left; margin-left: 300px;
+}
+
+footer{
+    color:red;
+
+}
+#hall{
+    justify-content: center;
+    display: flex;
+    margin: 0%;
+    align-items: center;
+
+}
+form {
+    background-color: #111;
+    color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 40px auto;
+  }
+
+  form input, form select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    border: none;
+    border-radius: 4px;
+  }
+
+  form label {
+    display: block;
+    margin-top: 10px;
+  }
